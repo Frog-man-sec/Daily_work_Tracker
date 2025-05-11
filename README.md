@@ -5,4 +5,5 @@ day 1:
 day 2:
 * [X] Reading books:
 	- wahh
+* [X] python
 
