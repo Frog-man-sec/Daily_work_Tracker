@@ -7,3 +7,6 @@ day 2:
 	- wahh
 * [X] python
 
+day 4:
+* [X] python
+
