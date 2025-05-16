@@ -10,3 +10,7 @@ day 2:
 day 4:
 * [X] python
 
+day 5:
+* [X] Reading books:
+	- wahh
+
