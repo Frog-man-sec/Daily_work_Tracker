@@ -14,3 +14,6 @@ day 5:
 * [X] Reading books:
 	- wahh
 
+day 6:
+* [X] Reading books:
+	- wahh
