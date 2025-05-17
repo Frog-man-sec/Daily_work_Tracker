@@ -17,3 +17,4 @@ day 5:
 day 6:
 * [X] Reading books:
 	- wahh
+* [X] python
