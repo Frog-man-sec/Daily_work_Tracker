@@ -18,3 +18,8 @@ day 6:
 * [X] Reading books:
 	- wahh
 * [X] python
+
+day 7:
+* [X] Reading books:
+	- wahh
+
